@@ -29,22 +29,9 @@
 		DEA0711C2CAF0B550093707A /* 3rd_hw_ChoiJunYoungUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 3rd_hw_ChoiJunYoungUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		DEA071242CAF0B550093707A /* Exceptions for "3rd_hw_ChoiJunYoung" folder in "3rd_hw_ChoiJunYoung" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = DEA070FB2CAF0B520093707A /* 3rd_hw_ChoiJunYoung */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		DEA070FE2CAF0B520093707A /* 3rd_hw_ChoiJunYoung */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				DEA071242CAF0B550093707A /* Exceptions for "3rd_hw_ChoiJunYoung" folder in "3rd_hw_ChoiJunYoung" target */,
-			);
 			path = 3rd_hw_ChoiJunYoung;
 			sourceTree = "<group>";
 		};
