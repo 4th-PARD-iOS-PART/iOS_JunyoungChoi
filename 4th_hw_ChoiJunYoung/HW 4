@@ -2,21 +2,21 @@
 
 1. Search 화면
 
-
+![image](https://github.com/user-attachments/assets/17b25981-1b81-4414-ac36-497eca20a88c)
 
 tableView로 요소들을 정렬했습니다. 오른쪽 재생 아이콘 한번에 export 할 수 있던거 몰라서
 동그라미랑 세모 따로 따와서 겹쳤습니다...
 
 2. Coming Soon 화면
 
-
+![image](https://github.com/user-attachments/assets/f7bcc1ed-2ec5-4921-a14c-7c4d652d8a65)
 
 스크롤 뷰 위에 사진과 텍스트를 올렸습니다.
 constraint를 사용해서 밑에 붙이는 형식으로 정렬시켰습니다.
 
 3. Downloads 화면 
 
-
+![image](https://github.com/user-attachments/assets/7bb66db6-c229-4e5a-97b1-a6b632d19842)
 
 뷰 위에 다운로드 이미지를 올리고 바로 밑 텍스트는 중간에 한번 잘랐습니다.
 하단에 버튼을 생성해서 텍스트를 추가해줬습니다.
