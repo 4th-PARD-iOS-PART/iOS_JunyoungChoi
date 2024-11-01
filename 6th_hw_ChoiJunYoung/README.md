@@ -9,7 +9,7 @@ HW 6!!!!!
 
 모달 창이 열리면 텍스트 필드 3개가 나오고, 각각 이름과 나이, 파트를 입력하고 추가하기 버튼을 누르면 서버로 전송합니다.
 
-<img width="488" alt="스크린샷 2024-11-01 오후 8 04 15" src="https://github.com/user-attachments/assets/cfaa6f68-beaf-4274-9cc4-d6b35a4f4b81">
+<img width="488" alt="스크린샷 2024-11-01 오후 8 21 49" src="https://github.com/user-attachments/assets/66e19d4c-ec29-46ab-9c18-f4790270a0ba">
 
 마지막으로 홈 화면의 셀을 누르면 해당 셀의 id로 서버에서 정보를 찾아 표시합니다.
 삭제와 수정은 아직 미구현
