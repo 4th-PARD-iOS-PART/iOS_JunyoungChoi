@@ -34,7 +34,7 @@ class DetailViewController: UIViewController {
 
         // PARD
         let pardLabel = UILabel()
-        pardLabel.text = "PARD"
+        pardLabel.text = "\(user?.name ?? "")"
         pardLabel.font = UIFont.boldSystemFont(ofSize: 30)
         pardLabel.translatesAutoresizingMaskIntoConstraints = false
         view.addSubview(pardLabel)
